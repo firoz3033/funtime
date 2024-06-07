@@ -1,18 +1,10 @@
-#!/bin/bash
+# Build the project
+echo "Building the project..."
+python3.12 -m pip install -r requirements.txt
 
-# Exit on error
-set -e
+echo "Make Migration..."
+python3.12 manage.py makemigrations --noinput
+python3.12 manage.py migrate --noinput
 
-# Upgrade pip to the latest version
-pip install --upgrade pip
-
-# Install dependencies from requirements.txt
-pip install -r requirements.txt
-
-# Run Django migrations
-python manage.py migrate
-
-# Collect static files
-python manage.py collectstatic --noinput --clear
-
-
+echo "Collect Static..."
+python3.12 manage.py collectstatic --noinput --clear
