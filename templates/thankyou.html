@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block body %}
+
+<div class="container my-5">
+    <h1 class='display-6 text-center greeting' ><i class="bi bi-check-lg"></i> Registration Successful!</h1>
+    <h4 class='text-center'>Welcome to Fun Time!</h4>
+    <p class='text-center'>Thank you <i class="bi bi-heart-fill" style='color:red;'></i> for registering with us. We're excited to have you on board! <i class="bi bi-rocket-takeoff-fill" style='color:orange;'></i></p>
+</div>
+
+<div class="container py-5 my-5">
+    <h2>Next Steps</h2>
+    <div class="content">
+        <h5>Check Your Email:</h5>
+        <ul>
+            <li>A confirmation email has been sent to your provided email address. Please check your inbox (and spam folder) for the details of your registration.</li>
+            <li>This email includes important information about your selected course(s) and the next steps to get started.</li>
+        </ul>
+        <h5>Course Start Date:</h5>
+        <ul>
+            <li>Your course start date and schedule details are included in the confirmation email. Please mark your calendar!</li>
+        </ul>
+        <h5>Join Our Community:</h5>
+        <ul>
+            <li>Follow us on social media to stay updated with the latest news, tips, and events from Fun Time.</li>
+            <li>Connect with fellow students and share your learning journey.</li>
+        </ul>
+    </div>
+</div>
+
+{% include "faq.html" %}
+{% endblock body %}

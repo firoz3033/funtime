@@ -1,0 +1,155 @@
+{% extends "base.html" %}
+
+{% block title %}Register yourself - Sankalp Digital Pathshala{% endblock title %}
+
+{% block body %}
+<div class="container mt-5">
+  <p>Welcome to Fun Time! Register now to unlock access to our exciting range of courses and start your learning journey today.</p>
+<form class="row  g-3 my-3" method="post" enctype="multipart/form-data" >
+  {% csrf_token %}
+    <div class="col-12">
+        <label for="course" class="form-label">Course</label>
+        <select class="form-select" aria-label="Default select example" required name="course" id="course">
+            {% comment %} <option selected>Course</option> {% endcomment %}
+            {% for x in course %}
+            <option value="{{ x.courseName }}"> {{ x.courseName }} </option>
+            {% endfor %}
+        </select>
+      </div>
+    
+
+    <div class="col-md-6">
+      <label for="firstName" class="form-label">First Name</label>
+      <input type="text" class="form-control" name="firstName" id="firstName" required>
+      
+    </div>
+    <div class="col-md-6">
+        <label for="lastName" class="form-label">Last Name</label>
+        <input type="text" class="form-control" name="lastName" id="lastName" required>
+      </div>
+    <div class="col-md-6">
+      <label for="fatherName" class="form-label">Father's Name</label>
+      <input type="text" class="form-control" name="fatherName" id="fatherName" required>
+    </div>
+    <div class="col-md-6">
+      <label for="motherName" class="form-label">Mother's Name</label>
+      <input type="text" class="form-control" name="motherName" id="motherName" required>
+    </div>
+    <div class="col-md-6">
+        <label for="passed_class" class="form-label">Class</label>
+        <select class="form-select" aria-label="Default select example" name="passed_class" id="passed_class" required>
+            <option value="9th">9th</option>
+            <option value="10th">10th</option>
+            <option value="11th">11th</option>
+            <option value="12th">12th</option>
+            <option value="Graduation">Graduation</option>
+        </select>
+    </div>
+    <div class="col-md-6">
+        <label for="dob" class="form-label">Date of Birth</label>
+        <input type="date" class="form-control" name="dob" id="dob" required>
+      </div>
+      <div class="col-md-6">
+        <label for="category" class="form-label">Category</label>
+        <select class="form-select" aria-label="Default select example" name="category" id="category">
+            <option value="OBC">OBC</option>
+            <option value="General">General</option>
+            <option value="ST">ST</option>
+            <option value="SC">SC</option>
+        </select>
+    </div>
+    <div class="col-md-6">
+        <label for="gender" class="form-label">Gender</label>
+        <select class="form-select" aria-label="Default select example" name="gender" id="gender">
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+            <option value="Other">Other</option>
+        </select>
+    </div>
+    <div class="col-md-6">
+        <label for="student_number" class="form-label">Studen Phone Number</label>
+        <input type="number" class="form-control" name="student_number" id="student_number" required>
+      </div>
+      <div class="col-md-6">
+        <label for="parent_number" class="form-label">Gaurdian Phone Number</label>
+        <input type="Number" class="form-control" name="parent_number" id="parent_number">
+      </div>
+      <div class="col-md-6">
+        <label for="email" class="form-label">Email</label>
+        <input type="email" class="form-control" name="email" id="email">
+      </div>
+    
+    
+    <div class="col-12">
+      <label for="inputAddress" class="form-label">Address</label>
+      <input type="text" class="form-control" id="inputAddress" name="address" placeholder="1234 Main St" required>
+    </div>
+    <div class="col-md-6">
+      <label for="inputCity" class="form-label">City</label>
+      <input type="text" class="form-control" name="city" id="inputCity" required>
+    </div>
+    <div class="col-md-4">
+      <label for="inputState" class="form-label">State</label>
+      <select id="inputState" name="state" class="form-select">
+        <option selected>Choose...</option>
+        <option value="Andhra Pradesh">Andhra Pradesh</option>
+  <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+  <option value="Assam">Assam</option>
+  <option value="Bihar">Bihar</option>
+  <option value="Chhattisgarh">Chhattisgarh</option>
+  <option value="Goa">Goa</option>
+  <option value="Gujarat">Gujarat</option>
+  <option value="Haryana">Haryana</option>
+  <option value="Himachal Pradesh">Himachal Pradesh</option>
+  <option value="Jharkhand">Jharkhand</option>
+  <option value="Karnataka">Karnataka</option>
+  <option value="Kerala">Kerala</option>
+  <option value="Madhya Pradesh">Madhya Pradesh</option>
+  <option value="Maharashtra">Maharashtra</option>
+  <option value="Manipur">Manipur</option>
+  <option value="Meghalaya">Meghalaya</option>
+  <option value="Mizoram">Mizoram</option>
+  <option value="Nagaland">Nagaland</option>
+  <option value="Odisha">Odisha</option>
+  <option value="Punjab">Punjab</option>
+  <option value="Rajasthan">Rajasthan</option>
+  <option value="Sikkim">Sikkim</option>
+  <option value="Tamil Nadu">Tamil Nadu</option>
+  <option value="Telangana">Telangana</option>
+  <option value="Tripura">Tripura</option>
+  <option value="Uttar Pradesh">Uttar Pradesh</option>
+  <option value="Uttarakhand">Uttarakhand</option>
+  <option value="West Bengal">West Bengal</option>
+  <option value="Andaman and Nicobar Islands">Andaman and Nicobar Islands</option>
+  <option value="Chandigarh">Chandigarh</option>
+  <option value="Dadra and Nagar Haveli and Daman and Diu">Dadra and Nagar Haveli and Daman and Diu</option>
+  <option value="Lakshadweep">Lakshadweep</option>
+  <option value="Delhi">Delhi</option>
+  <option value="Puducherry">Puducherry</option>
+      </select>
+    </div>
+    <div class="col-md-2">
+      <label for="inputZip" class="form-label">Zip</label>
+      <input type="text" class="form-control" name="zipcode" id="inputZip">
+    </div>
+
+    <div class="mb-3 col-12">
+      <label for="image" class="form-label">Upload Your Image</label>
+      <input type="file" name="image" class="form-control" aria-label="file example" required>
+      <div class="invalid-feedback">Example invalid form file feedback</div>
+    </div>
+    <div class="col-12">
+      <div class="form-check">
+        <input class="form-check-input" type="checkbox" id="gridCheck" required>
+        <label class="form-check-label" for="gridCheck" name="checkbox">
+          Agree Terms and Conditions
+        </label>
+      </div>
+    </div>
+
+    <div class="col-12">
+      <button type="submit" class="abtn" style='background:#001f3f; border:none;'>Register</button>
+    </div>
+  </form>
+</div>
+{% endblock body %}

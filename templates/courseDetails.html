@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+{% load static %}
+{% block body %}
+
+<div class="header">
+    <div class="container">
+        <div class="content course-heading py-4">
+            <div class="course">
+                <h1> {{course.courseName}} </h1>
+                <p> {{course.courseDesc}} </p>
+            </div>
+            <div class="cdetails">
+                <p>Created By: {{course.courseAuthor}}</p>
+                <ul>
+                    <li><i class="bi bi-clock-fill"></i> starting Date: {{course.courseStartDate}}</li>
+                    <li><i class="bi bi-globe"></i> Language: {{course.courseLanguage}} </li>
+                    <li><i class="bi bi-patch-check-fill"></i> Certificate: Yes</li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</div> 
+
+
+
+
+
+<div class="coursedetails my-5">
+        <div class="container">
+            <div class="row flex-column-reverse flex-lg-row">
+                <div class="col-lg-8 col-12 content-area"> 
+                
+                <div>{{course.courseDetails | safe}}</div>
+                {% include "faq.html" %}
+                    
+                </div>
+                <div class="col-lg-4 col-12 course-card-cont  ">
+                    <div class="course-det-card py-3 side-bar">
+                        <div class="content">
+                            <div class="featureimg">
+                                <img src= "/media/{{course.courseFeatureImg}}" alt="">
+                            </div>
+                            <div class="card-details">
+                                <h4> {{course.courseName}} </h4>
+                                <p> {{course.courseDesc}} </p>
+                                <ul>
+                                    <li><i class="bi bi-person-fill"></i> By: {{course.courseAuthor}} </li>
+                                    <li><i class="bi bi-clock-fill"></i> Starting date: {{course.courseStartDate}} </li>
+                                    <li><i class="bi bi-stopwatch-fill"></i> End date: {{course.courseEndDate}} </li>
+                                    <li><i class="bi bi-patch-check-fill"></i> Certificate after Completing</li>
+                                </ul>
+                                <hr width='250px' style='margin:15px auto;'>
+                                <div class="pricing py-1">
+                                    <span> <b>₹{{course.courseDisPrice}} </b></span> <span><strike> ₹{{course.coursePrice}}  </strike></span>
+                                </div>
+                                <div class="button">
+                                    <a href="/registeration" class="abtn">Enroll Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endblock body %}
+
+    

@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block body %}
+
+<div class="container my-5">
+    <h1 class='display-6 text-center greeting' ><i class="bi bi-check-lg"></i> Thank You for Your Inquiry!</h1>
+    <h4 class='text-center'>We Appreciate Your Interest in Fun Time!</h4>
+    <p class='text-center'>Thank you <i class="bi bi-heart-fill" style='color:red;'></i>for reaching out to us. We have received your inquiry and one of our representatives will get back to you shortly.</p>
+</div>
+
+<div class="container py-5 my-5">
+    <h2>What Happens Next?</h2>
+    <div class="content">
+        <h5>Reviewing Your Inquiry:</h5>
+        <ul>
+            <li>Our team is currently reviewing the details of your inquiry.</li>
+            <li>We strive to respond to all inquiries within 24-48 hours.</li>
+        </ul>
+        <h5>Confirmation Email:</h5>
+        <ul>
+            <li>A confirmation email has been sent to your provided email address.</li>
+            <li>Please check your inbox (and spam folder) for this email, which includes a summary of your inquiry.</li>
+        </ul>
+        <h5>Follow-Up:</h5>
+        <ul>
+            <li>One of our team members will contact you via the preferred method you indicated (email or phone) to address your questions and provide further information.</li>
+        </ul>
+        <h5>Join Our Community:</h5>
+        <ul>
+            <li>Follow us on social media to stay updated with the latest news, tips, and events from Fun Time.</li>
+            <li>Connect with fellow students and share your learning journey.</li>
+        </ul>
+    </div>
+</div>
+{% include "faq.html" %}
+{% endblock body %}

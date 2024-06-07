@@ -1,0 +1,78 @@
+
+{% extends "base.html" %}
+{% load static %}
+{% block title %}Register yourself - Sankalp Digital Pathshala{% endblock title %}
+{% block body %}
+
+<div class="container mb-5 mt-2">
+  <div class="container">
+  {% if certificate_url %}
+    <div class="row  my-5">
+      <div class="col-md-8 col-12 border p-2 mb-3">
+      <img src="{{ certificate_url }}" alt="Certificate" style="max-width:100%; height:auto;">
+      <br>
+    </div>
+    <div class="col-md-4 col-12">
+      <div class="greeting-student">
+        <h3 >Congratulations!</h3>
+        <span>Dear {{studentname}},</span><br>
+        <p>Congratulations on successfully completing your course at Fun Time. Your hard work and dedication have paid off, and we are proud of your achievement.</p>
+        <p>Please find your course completion certificate below. This certificate recognizes your efforts and marks the beginning of new opportunities.</p>
+        <p>Thank you for being a part of Fun Time. We wish you all the best in your future endeavors.</p>
+      </div>
+      <div class="download-certificate py-3">
+      <a href="{{ certificate_url }}" download="certificate.png">
+          <button class="abtn" style="border: none; background-color: #001f3f;" type="button">Download Certificate</button>
+      </a>
+    </div>
+    </div>
+  {% else %}
+      <p>No certificate generated.</p>
+    </div>
+  {% endif %}
+</div>
+</div>
+
+ {% comment %} <div class="container print-container mb-5"> 
+    <div class="row align-items-start">
+      <div class="col-12 col-md-2 mb-3">
+        <img src="{% static 'aliza.jpg'%}" class="img-fluid" alt="">
+      </div>
+      <div class="col-12 col-md-8 mb-3">
+        <table class="table table-bordered">
+            <tbody>
+                <tr>
+                    <th>Center Name</th>
+                    <td>RGCSM</td>
+                    <th>Registeration Number</th>
+                    <td>{{student.registration_number}}</td>
+                </tr>
+                <tr>
+                    <th>Student Name</th>
+                    <td> {{student.firstName}} {{student.lastName}} </td>
+                    <th>Father Name</th>
+                    <td>{{student.fatherName}} </td>
+                </tr>
+                <tr>
+                    <th>Grade</th>
+                    <td> {{grade}} </td>
+                    <th>Course Name</th>
+                    <td> {{student.course}} </td>
+                </tr>
+            </tbody>
+        </table>
+      </div>
+      <div class="col-12 col-md-2 mb-3 mb-5">
+        <img src="{% static 'certified.png' %}" alt="" class="img-fluid">
+        
+      </div>
+    </div>
+    
+  </div>
+
+  <div class="container">
+    <button onclick="window.print()" class="btn btn-primary">Print</button>
+  </div> {% endcomment %}
+
+
+{% endblock body %}

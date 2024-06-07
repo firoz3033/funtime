@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block title %}Register yourself - Sankalp Digital Pathshala{% endblock title %}
+
+{% block body %}
+
+<div class="container mt-5 ">
+<p class="my-3">Welcome to Fun Time! Here you can check the details and status of your course result by entering your registration number below.</p>
+<form class="row gy-2 gx-3 my-5 py-3 align-items-center justify-content-center flex-column" method="post">
+    {% csrf_token %}
+    <div class="col-auto">
+      
+      <input type="text" class="form-control" name="registration_number" id="autoSizingInput" placeholder="Rregistraion Number..">
+    </div>
+    <div class="col-auto py-2">
+      <button type="submit" class="abtn" style="border: none; background-color: #001f3f;">Submit</button>
+    </div>
+  </form>
+  <div class="container">
+    <h3 class="text-center">{{error}}</h3>
+  </div>
+</div>
+
+
+{% endblock body %}

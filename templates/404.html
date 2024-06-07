@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block body %}
+{% load static %}
+
+<div class="container d-flex flex-column justify-content-center align-items-center vh-100">
+    <img src="{% static 'images/404 Error.svg' %}" class="img-fluid" height="300px" width="300px" alt="">
+    <p class="h3 mb-3 text-muted">Page Not Found</p>
+    <p class="lead">The page you requested could not be found.</p>
+    <a href="/" class="abtn " style="background-color: beige; color: black;">Go Home</a>
+  </div>
+
+{% endblock body %}
