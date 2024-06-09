@@ -164,7 +164,7 @@ def result(request,res):
 
             # Define the font and size
             font_path1 = os.path.join(settings.BASE_DIR, 'static/certificates/GreatVibes-Regular.ttf')
-            font_path = 'arial.ttf'
+            font_path = os.path.join(settings.BASE_DIR, 'static/certificates/NotoSerif_Condensed-Regular.ttf')
             font = ImageFont.truetype(font_path1, 105)
             font2 = ImageFont.truetype(font_path, 40)
 
