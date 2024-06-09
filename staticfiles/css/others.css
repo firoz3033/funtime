@@ -1,0 +1,36 @@
+.main-area{
+    margin: 0px;
+}
+.content-area{
+    height: auto;
+    margin: 10px 0px;
+}
+.side-bar{
+    height: auto;
+    margin: 10px 0px;
+    width: 100%;
+    position: relative;
+    top: -180px;
+}
+/* now create two classes that will help for sticky sidebar */
+.sticky-sidebar{
+    position: sticky;
+    width: 100%;
+    /* the below top and topSpace in js must be same */
+    top: 10px;
+}
+.bottom-fixed-sidebar{
+    /* remove 30px from width as 30px margin is given 15 left 15 right */
+    width: calc(100% - 30px);
+    position: absolute;
+    bottom: 0px;
+}
+
+/* responsive */
+@media screen and (max-width: 992px) {
+    .side-bar{
+        position: static;
+        top: 0;
+    }
+
+}
