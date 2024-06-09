@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/5.0/ref/settings/
 """
 from dotenv import load_dotenv
 import os
+import dj_database_url
 
 
 
@@ -25,12 +26,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-g$pame9ofzr%7+8gb($a*k1skw3%n_t#39epnlmjxpyfib1a@@'
+SECRET_KEY = os.getenv('Secretkey')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.vercel.app','.now.sh', '127.0.0.1']
+ALLOWED_HOSTS = [os.getenv('DATABASE_URL')]
 
 
 # Application definition
@@ -82,16 +83,8 @@ WSGI_APPLICATION = 'sankalppathsahala.wsgi.application'
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': os.getenv('PGDATABASE'),        # Database name
-        'USER': os.getenv('PGUSER'),            # Username
-        'PASSWORD': os.getenv('PGPASSWORD'),    # Password
-        'HOST': os.getenv('PGHOST'),            # Host
-        'PORT': os.getenv('PGPORT'),            # Port
-    }
+    'default': dj_database_url.config(default=os.getenv('DATABASE_URL'))
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
@@ -137,8 +130,10 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # added manually 
 
-STATICFILES_DIRS =[ os.path.join(BASE_DIR, 'static'),]
-STATIC_ROOT = os.path.join(BASE_DIR,'staticfiles_build', 'static')
+STATICFILES_DIRS = (
+    os.path.join(BASE_DIR, 'static'),
+)
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 # uploadin g media 
 MEDIA_ROOT = BASE_DIR / "media"
@@ -152,7 +147,7 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'webahope@gmail.com'
-EMAIL_HOST_PASSWORD = 'uznh rfre gaey nxfn'
+EMAIL_HOST_USER = os.getenv('Email')
+EMAIL_HOST_PASSWORD = os.getenv('EmailPass')
 
 
