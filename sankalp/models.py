@@ -94,7 +94,7 @@ class course(models.Model):
 class testimonial(models.Model):
     testimonial_name = models.CharField( max_length=50)
     testimonial_role = models.CharField( max_length=50)
-    testimonial_para = models.CharField( max_length=150)
+    testimonial_para = models.CharField( max_length=700)
     testimonial_Img = models.FileField(upload_to="testimonial/",max_length=250,default=None,null=True)
 
     def __str__(self) :
