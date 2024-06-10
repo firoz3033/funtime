@@ -59,6 +59,8 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+
+
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 ROOT_URLCONF = 'sankalppathsahala.urls'
@@ -154,3 +156,10 @@ EMAIL_HOST_USER = os.getenv('Email')
 EMAIL_HOST_PASSWORD = os.getenv('EmailPass')
 
 
+TINYMCE_DEFAULT_CONFIG = {
+    'selector': 'textarea',
+    'plugins': 'link image code',
+    'toolbar': 'undo redo | formatselect | bold italic | alignleft aligncenter alignright | code',
+    'extended_valid_elements': 'span[style],a[href|target=_blank|style]',
+    'valid_elements': '*[*]',
+}
