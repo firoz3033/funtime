@@ -316,7 +316,7 @@ input[type=number] {
 
 .swiper-slide .tst-card .content .student .img  img {
   display: block;
-  max-width: 5rem;
+  width: 5rem;
   height: 5rem;
   border-radius: 50%;
   border: 2px solid var(--color-dark-blue);
