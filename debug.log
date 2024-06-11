@@ -1,0 +1,771 @@
+Watching for file changes with StatReloader
+Waiting for apps ready_event.
+Apps ready_event triggered. Sending autoreload_started signal.
+Watching dir C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\tinymce\templates with glob **/*.
+Watching dir C:\Users\Satya Computer\Desktop\sankalppathsahala\templates with glob **/*.
+Watching dir C:\Users\Satya Computer\Desktop\sankalppathsahala\locale with glob **/*.mo.
+Watching dir C:\Users\Satya Computer\Desktop\sankalppathsahala\sankalp\locale with glob **/*.mo.
+Watching dir C:\Users\Satya Computer\Desktop\sankalppathsahala\course\locale with glob **/*.mo.
+Watching dir C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\tinymce\locale with glob **/*.mo.
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\PIL\__init__.py first seen with mtime 1717512276.493532
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\postgresql\features.py first seen with mtime 1713087569.619421
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\whitenoise\responders.py first seen with mtime 1717688342.9073591
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\DLLs\_uuid.pyd first seen with mtime 1712654462.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\servers\basehttp.py first seen with mtime 1713087569.54647
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\sankalp\urls.py first seen with mtime 1717730205.0213277
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\difflib.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\ctypes\wintypes.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\tokens.py first seen with mtime 1713087561.7668457
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\templatetags\tz.py first seen with mtime 1713087569.9951918
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\json\scanner.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\encoding.py first seen with mtime 1713087570.0501554
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\utils.py first seen with mtime 1713087569.9652123
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\logging\handlers.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query.py first seen with mtime 1713087569.695375
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\reprlib.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\PIL\ImageColor.py first seen with mtime 1717512276.3476217
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\views\main.py first seen with mtime 1713087564.8210125
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\checks\security\base.py first seen with mtime 1713087569.4235456
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py first seen with mtime 1713087569.45952
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\edit.py first seen with mtime 1713087570.1271076
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\dates.py first seen with mtime 1713087570.12411
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\checks\database.py first seen with mtime 1713087569.4055533
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\apps\registry.py first seen with mtime 1713087562.9742308
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\servers\__init__.py first seen with mtime 1713087569.5444703
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\contenttypes\fields.py first seen with mtime 1713087565.7444427
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\staticfiles\views.py first seen with mtime 1713087569.3525867
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\hmac.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\static.py first seen with mtime 1713087570.101124
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\logging\config.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\concurrent\__init__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\pickle.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\files\uploadedfile.py first seen with mtime 1713087569.439536
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1713087567.6826215
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\files\__init__.py first seen with mtime 1713087569.4275432
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\dotenv\__init__.py first seen with mtime 1717737025.619612
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\checks\compatibility\__init__.py first seen with mtime 1713087569.418549
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\DLLs\_decimal.pyd first seen with mtime 1712654462.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\common.py first seen with mtime 1713087570.1081195
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\itercompat.py first seen with mtime 1713087570.0631475
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\http\__init__.py first seen with mtime 1713087569.9152422
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\postgresql\client.py first seen with mtime 1713087569.616423
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\generator.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\manager.py first seen with mtime 1713087569.691377
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\subprocess.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\validators.py first seen with mtime 1713087565.2757351
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\pkgutil.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\apps\config.py first seen with mtime 1713087562.973231
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\transaction.py first seen with mtime 1713087569.5494676
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\contenttypes\apps.py first seen with mtime 1713087565.7414474
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\sessions\__init__.py first seen with mtime 1713087568.4561398
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\contextlib.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\defaulttags.py first seen with mtime 1713087569.9502199
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\shutil.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1713087567.6776242
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\cache\__init__.py first seen with mtime 1713087569.383571
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\trsock.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\lookups.py first seen with mtime 1713087569.6893778
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\migrations\utils.py first seen with mtime 1713087569.6623943
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\files\storage\handler.py first seen with mtime 1713087569.4495282
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\introspection.py first seen with mtime 1713087569.5674534
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\filters.py first seen with mtime 1713087563.6675515
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\staticfiles\management\__init__.py first seen with mtime 1713087569.353586
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\dispatch\__init__.py first seen with mtime 1713087569.7503407
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\DLLs\_asyncio.pyd first seen with mtime 1712654462.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\files\storage\mixins.py first seen with mtime 1713087569.453524
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\argparse.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\format_helpers.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\wsgiref\handlers.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\filters\aligned_indent.py first seen with mtime 1713087561.7778397
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\selector_events.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\detail.py first seen with mtime 1713087570.1261086
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\autoreload.py first seen with mtime 1713087570.0301678
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\functools.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\files\images.py first seen with mtime 1713087569.4315393
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\collections\abc.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\forms\fields.py first seen with mtime 1713087569.7603385
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\proxy.py first seen with mtime 1713087569.7123663
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\functions\window.py first seen with mtime 1713087569.7353518
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\migrations\__init__.py first seen with mtime 1713087569.6424072
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\mail\__init__.py first seen with mtime 1713087569.4665165
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\defaults.py first seen with mtime 1713087570.0981262
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\forms\formsets.py first seen with mtime 1713087569.7643337
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\streams.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\sql.py first seen with mtime 1713087561.765846
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\tempfile.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\__init__.py first seen with mtime 1713087570.094128
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\urllib\__init__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\functional.py first seen with mtime 1713087570.0541532
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\loaders\cached.py first seen with mtime 1713087569.9822009
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\checks\urls.py first seen with mtime 1713087569.4165502
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\text.py first seen with mtime 1713087570.0761397
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\translation\trans_real.py first seen with mtime 1713087570.0921297
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\mime\nonmultipart.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\re\_parser.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\_compat_pickle.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\utils.py first seen with mtime 1713087569.7013712
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\engine\__init__.py first seen with mtime 1713087561.7698438
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\bisect.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\base.py first seen with mtime 1713087569.5604575
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py first seen with mtime 1713087570.122111
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\html\__init__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\middleware\cache.py first seen with mtime 1713087569.9242365
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\utils.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\psycopg2\sql.py first seen with mtime 1717737164.0269206
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\zoneinfo\_tzpath.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\serializers\__init__.py first seen with mtime 1713087569.533477
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\loaders\filesystem.py first seen with mtime 1713087569.984201
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\DLLs\_overlapped.pyd first seen with mtime 1712654462.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\whitenoise\__init__.py first seen with mtime 1717688342.8941212
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\constants.py first seen with mtime 1713087569.7403483
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\asyncio.py first seen with mtime 1713087570.0291684
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\__init__.py first seen with mtime 1713087569.704369
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\backends.py first seen with mtime 1713087565.2527497
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\random.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\utils.py first seen with mtime 1713087563.6795437
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\sessions\models.py first seen with mtime 1713087568.4631417
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\filters\output.py first seen with mtime 1713087561.7808373
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\operator.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\re\_compiler.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\__init__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\course\models.py first seen with mtime 1716280068.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\safestring.py first seen with mtime 1713087570.0731413
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\__init__.py first seen with mtime 1713087569.6743908
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\numbers.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\__init__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\conf\urls\__init__.py first seen with mtime 1713087563.6495621
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\urls\__init__.py first seen with mtime 1713087570.0141776
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\opcode.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\reverse_related.py first seen with mtime 1713087569.7213602
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\DLLs\unicodedata.pyd first seen with mtime 1712654462.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\encodings\utf_8.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\cli.py first seen with mtime 1713087561.7568524
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\textwrap.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\re\_casefix.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\PIL\ExifTags.py first seen with mtime 1717512276.296656
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\migrations\operations\special.py first seen with mtime 1713087569.672392
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\weakref.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\PIL\_binary.py first seen with mtime 1717512276.4975293
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\taskgroups.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\_weakrefset.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py first seen with mtime 1713087564.8090222
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\psycopg2\_psycopg.cp312-win_amd64.pyd first seen with mtime 1717737164.004944
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\models.py first seen with mtime 1713087565.2687387
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\contenttypes\admin.py first seen with mtime 1713087565.740448
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\contenttypes\management\__init__.py first seen with mtime 1713087566.1362
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\contentmanager.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\queues.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\checks.py first seen with mtime 1713087565.2557473
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\mail\message.py first seen with mtime 1713087569.4685147
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\forms\__init__.py first seen with mtime 1713087569.756339
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\sankalp\views.py first seen with mtime 1717947777.4163115
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\whitenoise\base.py first seen with mtime 1717688342.8971183
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\defaultfilters.py first seen with mtime 1713087569.9482217
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\templatetags\l10n.py first seen with mtime 1713087569.992193
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\__init__.py first seen with mtime 1713087570.1031225
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\DLLs\_hashlib.pyd first seen with mtime 1712654462.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\debug.py first seen with mtime 1713087570.1131165
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\exceptions.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\files\move.py first seen with mtime 1713087569.43454
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\copyreg.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\backends\django.py first seen with mtime 1713087569.971208
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\wsgiref\simple_server.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\dj_database_url\__init__.py first seen with mtime 1717934079.1747344
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\operations.py first seen with mtime 1713087569.5694528
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\base.py first seen with mtime 1713087569.4835055
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\helpers.py first seen with mtime 1713087563.6705494
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\client.py first seen with mtime 1713087569.5624568
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\ipv6.py first seen with mtime 1713087570.0621476
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\ctypes\_endian.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\indexes.py first seen with mtime 1713087569.6883788
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\_header_value_parser.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\pprint.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\re\_constants.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\filters\right_margin.py first seen with mtime 1713087561.7838354
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\validators.py first seen with mtime 1713087569.3805714
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\postgresql\operations.py first seen with mtime 1713087569.6234193
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\futures.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\module_loading.py first seen with mtime 1713087570.0691435
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\migrations\operations\base.py first seen with mtime 1713087569.6673944
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\keywords.py first seen with mtime 1713087561.7618487
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\uuid.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\decorators.py first seen with mtime 1713087570.0451584
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\constants.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\http\server.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\zoneinfo\__init__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\formatter.py first seen with mtime 1713087561.7608497
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\importlib\__init__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\conf\urls\static.py first seen with mtime 1713087563.65356
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\signal.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\files\storage\__init__.py first seen with mtime 1713087569.4445329
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\exceptions.py first seen with mtime 1713087569.9542162
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\migrations\state.py first seen with mtime 1713087569.661395
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\__init__.py first seen with mtime 1713087569.736351
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\errors.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\crypto.py first seen with mtime 1713087570.0371635
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\asgiref\sync.py first seen with mtime 1713087562.6069734
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\messages\apps.py first seen with mtime 1713087567.6696305
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\http\response.py first seen with mtime 1713087569.9222374
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_subprocess.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\filters\others.py first seen with mtime 1713087561.7798378
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\dataclasses.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\backends\__init__.py first seen with mtime 1713087569.9672105
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\manage.py first seen with mtime 1714744144.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\PIL\ImageFont.py first seen with mtime 1717512276.3646116
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\fnmatch.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\psycopg2\extras.py first seen with mtime 1717737164.0219252
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\signals.py first seen with mtime 1713087569.5554607
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\templatetags\i18n.py first seen with mtime 1713087569.9901955
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\deprecation.py first seen with mtime 1713087570.047157
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\checks\compatibility\django_4_0.py first seen with mtime 1713087569.4205472
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\middleware\__init__.py first seen with mtime 1713087569.923237
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\contenttypes\models.py first seen with mtime 1713087565.7484393
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\files\uploadhandler.py first seen with mtime 1713087569.4405355
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\wsgiref\headers.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\http\request.py first seen with mtime 1713087569.9202383
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_tasks.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\copy.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\PIL\ImageDraw.py first seen with mtime 1717512276.3516214
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\DLLs\_bz2.pyd first seen with mtime 1712654462.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\inspect.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\response.py first seen with mtime 1713087569.9622128
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\middleware\csrf.py first seen with mtime 1713087569.9302297
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\wsgiref\util.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\enums.py first seen with mtime 1713087569.684381
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\decorators.py first seen with mtime 1713087563.6645532
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\logging\__init__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\course\__init__.py first seen with mtime 1716278976.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\__init__.py first seen with mtime 1713087563.6555598
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\apps.py first seen with mtime 1713087563.6605568
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\__init__.py first seen with mtime 1713087565.2477522
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py first seen with mtime 1713087569.461519
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\translation\__init__.py first seen with mtime 1713087570.0861328
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\cache\backends\__init__.py first seen with mtime 1713087569.3865688
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\windows_events.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\constraints.py first seen with mtime 1713087569.6813827
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\contenttypes\forms.py first seen with mtime 1713087565.7464411
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\dotenv\main.py first seen with mtime 1717737025.6266074
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\psycopg2\__init__.py first seen with mtime 1717737163.9509664
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\exceptions.py first seen with mtime 1713087569.3735752
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\postgresql\introspection.py first seen with mtime 1713087569.6214201
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\types.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\headerregistry.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\urllib\parse.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\messages\__init__.py first seen with mtime 1713087567.6656282
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\tree.py first seen with mtime 1713087570.0811367
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\glob.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\options.py first seen with mtime 1713087563.6745472
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\generated.py first seen with mtime 1713087569.7073703
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\typing.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\checks\model_checks.py first seen with mtime 1713087569.4105537
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\checks\registry.py first seen with mtime 1713087569.4125526
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\files\storage\filesystem.py first seen with mtime 1713087569.447532
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\migrations\operations\fields.py first seen with mtime 1713087569.6693902
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\sankalp\models.py first seen with mtime 1718032234.0165732
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\warnings.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\forms\widgets.py first seen with mtime 1713087569.77233
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\ssl.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\html\parser.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\checks\security\csrf.py first seen with mtime 1713087569.4245453
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\contenttypes\checks.py first seen with mtime 1713087565.743443
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\selectors.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\constants.py first seen with mtime 1713087569.6793876
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\urls\exceptions.py first seen with mtime 1713087570.0201735
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\migrations\migration.py first seen with mtime 1713087569.6524007
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\choices.py first seen with mtime 1713087570.0341651
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\queue.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\DLLs\_wmi.pyd first seen with mtime 1712654462.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\html.py first seen with mtime 1713087570.0571513
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\_compression.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\socket.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\apps\__init__.py first seen with mtime 1713087562.9712358
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_futures.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\staticfiles\management\commands\__init__.py first seen with mtime 1713087569.3555846
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\__future__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\sites\__init__.py first seen with mtime 1713087568.894869
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\cffi\__init__.py first seen with mtime 1713195796.5734937
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\i18n.py first seen with mtime 1713087570.1001246
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\__init__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\templatetags\__init__.py first seen with mtime 1713087564.8070233
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\__init__.py first seen with mtime 1713087561.7538533
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\timezone.py first seen with mtime 1713087570.0791378
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\urllib\request.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\templatetags\cache.py first seen with mtime 1713087569.9891927
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\protocols.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\checks\files.py first seen with mtime 1713087569.4075565
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\string.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\log.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\__init__.py first seen with mtime 1713087563.6575572
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\regex_helper.py first seen with mtime 1713087570.072142
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\timesince.py first seen with mtime 1713087570.0781384
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\sankalp\admin.py first seen with mtime 1717326820.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\encoders.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\tinymce\__init__.py first seen with mtime 1716818630.712905
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\header.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\http.py first seen with mtime 1713087570.0591495
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py first seen with mtime 1713087570.1101184
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\threads.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\filters\__init__.py first seen with mtime 1713087561.77684
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\files\utils.py first seen with mtime 1713087569.4425304
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\loader.py first seen with mtime 1713087569.958214
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\tinymce\settings.py first seen with mtime 1716818630.7199
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\exceptions.py first seen with mtime 1713087561.7588508
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\functions\math.py first seen with mtime 1713087569.7293553
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\cache.py first seen with mtime 1713087570.1051211
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\DLLs\_queue.pyd first seen with mtime 1712654462.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\functions\text.py first seen with mtime 1713087569.7333527
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\messages\constants.py first seen with mtime 1713087567.6716268
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\templatetags\__init__.py first seen with mtime 1713087569.9871962
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\utils.py first seen with mtime 1713087569.556464
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\templatetags\log.py first seen with mtime 1713087564.8150184
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\apps.py first seen with mtime 1713087565.25075
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\__init__.py first seen with mtime 1713087569.455523
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\base64mime.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\wsgi.py first seen with mtime 1713087569.381572
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\urls\conf.py first seen with mtime 1713087570.0171757
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\context.py first seen with mtime 1713087569.9442253
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\asgiref\__init__.py first seen with mtime 1713087562.5969796
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\engine\filter_stack.py first seen with mtime 1713087561.771843
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\__init__.py first seen with mtime 1713087569.9382248
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\parser.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\psycopg2\extensions.py first seen with mtime 1717737164.0179248
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\datastructures.py first seen with mtime 1713087569.7413487
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\signals.py first seen with mtime 1713087569.6993723
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\subqueries.py first seen with mtime 1713087569.746345
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\options.py first seen with mtime 1713087569.6933756
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\dotenv\parser.py first seen with mtime 1717737025.6286094
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\transports.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\expressions.py first seen with mtime 1713087569.6863804
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\sankalppathsahala\__init__.py first seen with mtime 1714744144.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\cache\backends\filebased.py first seen with mtime 1713087569.3925645
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\serializers\python.py first seen with mtime 1713087569.539474
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\forms\utils.py first seen with mtime 1713087569.770331
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\termcolors.py first seen with mtime 1713087570.0751395
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\typing_extensions.py first seen with mtime 1713195781.0889528
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\_markupbase.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\tinymce\widgets.py first seen with mtime 1716818630.7308927
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\postgresql\psycopg_any.py first seen with mtime 1713087569.6244178
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\where.py first seen with mtime 1713087569.7483432
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\datastructures.py first seen with mtime 1713087570.038163
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\gettext.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\http\cookie.py first seen with mtime 1713087569.9172406
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\encodings\__init__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\urls\resolvers.py first seen with mtime 1713087570.0221727
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\importlib\_abc.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\base64.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\files\storage\base.py first seen with mtime 1713087569.445533
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\functions\datetime.py first seen with mtime 1713087569.727356
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\timeouts.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\sysconfig.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\serializers\json.py first seen with mtime 1713087569.536475
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\cache\utils.py first seen with mtime 1713087569.3845706
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\mime\message.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\_parseaddr.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\PIL\_imagingft.cp312-win_amd64.pyd first seen with mtime 1717512276.5834787
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\asgiref\local.py first seen with mtime 1713087562.6019773
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\ddl_references.py first seen with mtime 1713087569.5534651
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\lorem_ipsum.py first seen with mtime 1713087570.0681443
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\ipaddress.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\actions.py first seen with mtime 1713087563.658557
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\__init__.py first seen with mtime 1713087562.9672358
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\platform.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\nturl2path.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\charset.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\asgiref\current_thread_executor.py first seen with mtime 1713087562.6009777
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\cache.py first seen with mtime 1713087570.0321667
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\psycopg2\_ipaddress.py first seen with mtime 1717737163.9539652
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\wsgi.py first seen with mtime 1713087569.4635177
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\staticfiles\__init__.py first seen with mtime 1713087569.3325987
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\files\temp.py first seen with mtime 1713087569.4365396
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\forms\models.py first seen with mtime 1713087569.7673347
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\forms.py first seen with mtime 1713087565.262743
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\features.py first seen with mtime 1713087569.5654545
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\PIL\_imaging.cp312-win_amd64.pyd first seen with mtime 1717512276.5445006
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\DLLs\_ctypes.pyd first seen with mtime 1712654462.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\DLLs\_socket.pyd first seen with mtime 1712654462.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\library.py first seen with mtime 1713087569.9562168
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\_distutils_hack\__init__.py first seen with mtime 1713195781.5472093
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\views\autocomplete.py first seen with mtime 1713087564.8170176
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\query_utils.py first seen with mtime 1713087569.6973734
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\DLLs\_ssl.pyd first seen with mtime 1712654462.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\signals.py first seen with mtime 1713087565.2717369
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\postgresql\schema.py first seen with mtime 1713087569.6264167
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\urls\utils.py first seen with mtime 1713087570.0231729
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\files\locks.py first seen with mtime 1713087569.4335406
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\numberformat.py first seen with mtime 1713087570.0711424
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\enum.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\postgresql\base.py first seen with mtime 1713087569.6144247
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\staggered.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\json.py first seen with mtime 1713087569.7093682
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\__init__.py first seen with mtime 1713087570.121112
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\exceptions.py first seen with mtime 1713087563.6655526
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\urls\converters.py first seen with mtime 1713087570.0181751
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\mime\base.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\tinymce\models.py first seen with mtime 1716818630.7179015
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\related.py first seen with mtime 1713087569.7153647
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\translation\reloader.py first seen with mtime 1713087570.087133
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\bz2.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\mail\utils.py first seen with mtime 1713087569.4705133
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\hashable.py first seen with mtime 1713087570.0561514
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\templatetags\admin_urls.py first seen with mtime 1713087564.8120198
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\serializers\base.py first seen with mtime 1713087569.534477
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\gzip.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\cffi\lock.py first seen with mtime 1713195796.61646
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\asgi.py first seen with mtime 1713087569.4575217
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\sankalp\apps.py first seen with mtime 1714744278.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\checks\translation.py first seen with mtime 1713087569.4155507
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\shortcuts.py first seen with mtime 1713087562.9702327
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\creation.py first seen with mtime 1713087569.5634556
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\re\__init__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\hashers.py first seen with mtime 1713087565.2637427
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\checks\security\__init__.py first seen with mtime 1713087569.4215472
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\deletion.py first seen with mtime 1713087569.6833816
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\html\entities.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\whitenoise\media_types.py first seen with mtime 1717688342.9023645
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\__init__.py first seen with mtime 1713087569.482506
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\color.py first seen with mtime 1713087569.4855042
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\deconstruct.py first seen with mtime 1713087570.044159
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\engine\grouping.py first seen with mtime 1713087561.7728424
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\base.py first seen with mtime 1713087569.9422238
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\zoneinfo\_common.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\log.py first seen with mtime 1713087570.066146
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\PIL\_typing.py first seen with mtime 1717512276.6054635
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\loader_tags.py first seen with mtime 1713087569.9602153
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\widgets.py first seen with mtime 1713087563.682542
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\middleware.py first seen with mtime 1713087565.2657406
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\dispatch\dispatcher.py first seen with mtime 1713087569.7523434
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\PIL\_version.py first seen with mtime 1717512276.6084611
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\message.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\locks.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\contenttypes\views.py first seen with mtime 1713087565.752437
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\validation.py first seen with mtime 1713087569.5734496
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\cffi\api.py first seen with mtime 1713195796.5924754
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\filters\reindent.py first seen with mtime 1713087561.7828362
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\policy.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\messages\storage\__init__.py first seen with mtime 1713087567.681621
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\staticfiles\storage.py first seen with mtime 1713087569.3425922
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\__init__.py first seen with mtime 1713087569.5474694
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\sankalppathsahala\urls.py first seen with mtime 1717739490.99868
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\course\apps.py first seen with mtime 1716278976.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\lzma.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\migrations\exceptions.py first seen with mtime 1713087569.6454058
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\postgresql\creation.py first seen with mtime 1713087569.6174228
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\aggregates.py first seen with mtime 1713087569.6753898
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\dotenv\variables.py first seen with mtime 1717737025.6336036
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\mime\text.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\mixins.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\views\__init__.py first seen with mtime 1713087564.8160176
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\backends\base.py first seen with mtime 1713087569.9692116
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\sites\requests.py first seen with mtime 1713087568.9108603
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\psycopg2\_json.py first seen with mtime 1717737163.9579637
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\_policybase.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\engine\statement_splitter.py first seen with mtime 1713087561.7748413
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\coroutines.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\templatetags\admin_modify.py first seen with mtime 1713087564.810022
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\templatetags\base.py first seen with mtime 1713087564.8130202
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\_encoded_words.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\checks.py first seen with mtime 1713087563.6625545
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\management\__init__.py first seen with mtime 1713087565.6994724
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\migrations\operations\models.py first seen with mtime 1713087569.671389
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\files.py first seen with mtime 1713087569.7063713
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\http\cookies.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\quopri.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\keyword.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\conf\global_settings.py first seen with mtime 1713087562.978228
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\checks\messages.py first seen with mtime 1713087569.409554
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\decimal.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\__init__.py first seen with mtime 1713087569.552466
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\mixins.py first seen with mtime 1713087569.7103684
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\loaders\__init__.py first seen with mtime 1713087569.9772038
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\getpass.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\forms\renderers.py first seen with mtime 1713087569.7683327
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\messages\api.py first seen with mtime 1713087567.6676311
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\PIL\Image.py first seen with mtime 1717512276.3396275
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\related_lookups.py first seen with mtime 1713087569.7193608
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\cache\backends\base.py first seen with mtime 1713087569.3875692
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\PIL\ImageMode.py first seen with mtime 1717512276.3726065
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\contextvars.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\base.py first seen with mtime 1713087569.678388
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\sankalp\__init__.py first seen with mtime 1714744278.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\migrations\operations\__init__.py first seen with mtime 1713087569.6663923
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\dateformat.py first seen with mtime 1713087570.039162
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\course\admin.py first seen with mtime 1716280076.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\staticfiles\handlers.py first seen with mtime 1713087569.340594
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\loaders\app_directories.py first seen with mtime 1713087569.9791994
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\__init__.py first seen with mtime 1713087570.0241714
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\urllib\response.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\subprocess.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\sslproto.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\fields\related_descriptors.py first seen with mtime 1713087569.717363
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\hashlib.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\urllib\error.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\forms\boundfield.py first seen with mtime 1713087569.7583375
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\query.py first seen with mtime 1713087569.7443438
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\files\storage\memory.py first seen with mtime 1713087569.4515278
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\cffi\error.py first seen with mtime 1713195796.6114652
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\checks\security\sessions.py first seen with mtime 1713087569.4255445
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\http\multipartparser.py first seen with mtime 1713087569.9182405
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\lexer.py first seen with mtime 1713087561.7638476
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\connection.py first seen with mtime 1713087570.0351648
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\datetime.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\filters\tokens.py first seen with mtime 1713087561.7858343
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\templatetags\static.py first seen with mtime 1713087569.9931934
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\__init__.py first seen with mtime 1713087569.3695805
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\formats.py first seen with mtime 1713087570.0531535
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\loaders\base.py first seen with mtime 1713087569.9802022
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\commands\__init__.py first seen with mtime 1713087569.4915004
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\smartif.py first seen with mtime 1713087569.9632137
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\debug.py first seen with mtime 1713087570.0971267
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\list.py first seen with mtime 1713087570.1291065
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\sessions\base_session.py first seen with mtime 1713087568.4591384
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\mime\__init__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\iterators.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\urls\base.py first seen with mtime 1713087570.0161765
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\signing.py first seen with mtime 1713087569.3785744
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\staticfiles\checks.py first seen with mtime 1713087569.3365963
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\DLLs\_zoneinfo.pyd first seen with mtime 1712654462.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\forms\forms.py first seen with mtime 1713087569.7623353
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\dates.py first seen with mtime 1713087570.0421603
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\autoreload.py first seen with mtime 1713087569.940224
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\token.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\DLLs\select.pyd first seen with mtime 1712654462.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\calendar.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\PIL\_util.py first seen with mtime 1717512276.6064625
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\paginator.py first seen with mtime 1713087569.374577
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\management\commands\runserver.py first seen with mtime 1713087569.5134869
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\version.py first seen with mtime 1713087570.083135
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\socketserver.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\asyncio\windows_utils.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\staticfiles\finders.py first seen with mtime 1713087569.3385952
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\_os.py first seen with mtime 1713087570.02617
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\ast.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\dis.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\files\base.py first seen with mtime 1713087569.4295423
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\inspect.py first seen with mtime 1713087570.0601494
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\quoprimime.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\functions\comparison.py first seen with mtime 1713087569.7253551
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\models.py first seen with mtime 1713087563.672548
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\sessions\apps.py first seen with mtime 1713087568.457139
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\wsgiref\__init__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\conf\__init__.py first seen with mtime 1713087562.97623
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\graphlib.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\dateparse.py first seen with mtime 1713087570.0411608
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\DLLs\_lzma.pyd first seen with mtime 1712654462.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\checks\__init__.py first seen with mtime 1713087569.4005609
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\ctypes\__init__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\checks\caches.py first seen with mtime 1713087569.4035592
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\admin.py first seen with mtime 1713087565.2497506
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\checks\async_checks.py first seen with mtime 1713087569.4015603
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\middleware\security.py first seen with mtime 1713087569.9362257
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\functions\mixins.py first seen with mtime 1713087569.7303553
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\schema.py first seen with mtime 1713087569.5714512
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\sites\shortcuts.py first seen with mtime 1713087568.912858
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\base_user.py first seen with mtime 1713087565.2537484
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\collections\__init__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\staticfiles\management\commands\runserver.py first seen with mtime 1713087569.3625805
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\postgresql\__init__.py first seen with mtime 1713087569.6134248
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\psycopg2\errors.py first seen with mtime 1717737164.011928
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\traceback.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sqlparse\utils.py first seen with mtime 1713087561.7678454
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\threading.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\heapq.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\staticfiles\utils.py first seen with mtime 1713087569.3495882
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\linecache.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\http\__init__.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\cffi\model.py first seen with mtime 1713195796.6204612
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\sankalppathsahala\settings.py first seen with mtime 1718107523.2496526
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\sites.py first seen with mtime 1713087563.676546
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\tokens.py first seen with mtime 1713087565.2727368
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\psycopg2\_range.py first seen with mtime 1717737164.0069318
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\mime\multipart.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\template\engine.py first seen with mtime 1713087569.9522192
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\signals.py first seen with mtime 1713087569.3765762
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\conf\locale\__init__.py first seen with mtime 1713087562.9911048
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\staticfiles\apps.py first seen with mtime 1713087569.3345973
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\encodings\aliases.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\checks\templates.py first seen with mtime 1713087569.414551
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\password_validation.py first seen with mtime 1713087565.269739
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\struct.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\backends\base\__init__.py first seen with mtime 1713087569.558459
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\utils.py first seen with mtime 1713087569.5504675
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\contenttypes\__init__.py first seen with mtime 1713087565.738449
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\functions\__init__.py first seen with mtime 1713087569.7233584
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\PIL\TiffTags.py first seen with mtime 1717512276.4785416
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\http\client.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\utils\duration.py first seen with mtime 1713087570.048157
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\tokenize.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\mimetypes.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\secrets.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\email\feedparser.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\locale.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\pathlib.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\tinymce\templates\tinymce first seen with mtime 1716818631.2775567
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\tinymce\templates\tinymce\filebrowser.js first seen with mtime 1716818631.2765584
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\tinymce\templates\tinymce\tiny_mce_gzip.js first seen with mtime 1716818631.2785566
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\templates\404.html first seen with mtime 1717752314.5770588
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\templates\base.html first seen with mtime 1717752264.8639371
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\templates\courseDetails.html first seen with mtime 1717960621.3324409
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\templates\desclaimer.html first seen with mtime 1717752373.9440236
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\templates\faq.html first seen with mtime 1717320786.0
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\templates\index.html first seen with mtime 1718033557.5083354
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\templates\privacyPolicy.html first seen with mtime 1717752432.8219717
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\templates\refundpolicy.html first seen with mtime 1717752452.377227
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\templates\register.html first seen with mtime 1717752465.200238
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\templates\result.html first seen with mtime 1717752505.593178
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\templates\searchResults.html first seen with mtime 1717752519.7198699
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\templates\termsandcondition.html first seen with mtime 1717752544.6107438
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\templates\thankyou.html first seen with mtime 1717752583.5351596
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\templates\thankyou2.html first seen with mtime 1717752667.589798
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\sessions\backends\__init__.py first seen with mtime 1713087568.4661336
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\course\migrations\0001_initial.py first seen with mtime 1716279872.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1713087565.710466
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1713087569.649403
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1713087565.7184587
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1713087565.7204573
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\cache\backends\locmem.py first seen with mtime 1713087569.393564
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\sankalp\migrations\0001_initial.py first seen with mtime 1717327158.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1713087565.7224565
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1713087565.7284565
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\whitenoise\storage.py first seen with mtime 1717688342.9093552
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\sessions\exceptions.py first seen with mtime 1713087568.4601374
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1713087566.1402013
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\sankalp\migrations\__init__.py first seen with mtime 1717327158.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\whitenoise\string_utils.py first seen with mtime 1717688342.9113555
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1713087568.8828766
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1713087564.499734
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1713087569.6573975
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\middleware\common.py first seen with mtime 1713087569.928231
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1713087564.4977353
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1713087565.7314508
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\csrf.py first seen with mtime 1713087570.0951278
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1713087569.6474037
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\whitenoise\compress.py first seen with mtime 1717688342.9003446
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\whitenoise\middleware.py first seen with mtime 1717688342.9043589
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1713087565.7264535
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\sessions\middleware.py first seen with mtime 1713087568.4621367
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\course\migrations\__init__.py first seen with mtime 1716278976.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1713087565.7154593
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1713087565.724454
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\messages\middleware.py first seen with mtime 1713087567.6746268
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\sankalp\migrations\0002_alter_testimonial_testimonial_img_and_more.py first seen with mtime 1718032567.5761576
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1713087569.6514018
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1713087566.1431992
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1713087565.7174587
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1713087564.5017333
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1713087565.7304533
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\sessions\backends\base.py first seen with mtime 1713087568.468132
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1713087565.7084641
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\course\migrations\0002_delete_course.py first seen with mtime 1716280108.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1713087564.5027323
+File C:\Users\Satya Computer\Desktop\sankalppathsahala\sankalppathsahala\wsgi.py first seen with mtime 1717729530.875794
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1713087569.7383502
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1713087568.8808777
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1713087566.1421995
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1713087565.712464
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1713087568.4721303
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1713087569.9262354
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\encodings\idna.py first seen with mtime 1712654418.0
+File C:\Users\Satya Computer\AppData\Local\Programs\Python\Python312\Lib\stringprep.py first seen with mtime 1712654418.0
+(0.156) 
+            SELECT
+                c.relname,
+                CASE
+                    WHEN c.relispartition THEN 'p'
+                    WHEN c.relkind IN ('m', 'v') THEN 'v'
+                    ELSE 't'
+                END,
+                obj_description(c.oid, 'pg_class')
+            FROM pg_catalog.pg_class c
+            LEFT JOIN pg_catalog.pg_namespace n ON n.oid = c.relnamespace
+            WHERE c.relkind IN ('f', 'm', 'p', 'r', 'v')
+                AND n.nspname NOT IN ('pg_catalog', 'pg_toast')
+                AND pg_catalog.pg_table_is_visible(c.oid)
+        ; args=None; alias=default
+(0.156) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.156) 
+            SELECT
+                c.relname,
+                CASE
+                    WHEN c.relispartition THEN 'p'
+                    WHEN c.relkind IN ('m', 'v') THEN 'v'
+                    ELSE 't'
+                END,
+                obj_description(c.oid, 'pg_class')
+            FROM pg_catalog.pg_class c
+            LEFT JOIN pg_catalog.pg_namespace n ON n.oid = c.relnamespace
+            WHERE c.relkind IN ('f', 'm', 'p', 'r', 'v')
+                AND n.nspname NOT IN ('pg_catalog', 'pg_toast')
+                AND pg_catalog.pg_table_is_visible(c.oid)
+        ; args=None; alias=default
+(0.172) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.156) 
+            SELECT
+                c.relname,
+                CASE
+                    WHEN c.relispartition THEN 'p'
+                    WHEN c.relkind IN ('m', 'v') THEN 'v'
+                    ELSE 't'
+                END,
+                obj_description(c.oid, 'pg_class')
+            FROM pg_catalog.pg_class c
+            LEFT JOIN pg_catalog.pg_namespace n ON n.oid = c.relnamespace
+            WHERE c.relkind IN ('f', 'm', 'p', 'r', 'v')
+                AND n.nspname NOT IN ('pg_catalog', 'pg_toast')
+                AND pg_catalog.pg_table_is_visible(c.oid)
+        ; args=None; alias=default
+(0.156) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.172) 
+            SELECT
+                c.relname,
+                CASE
+                    WHEN c.relispartition THEN 'p'
+                    WHEN c.relkind IN ('m', 'v') THEN 'v'
+                    ELSE 't'
+                END,
+                obj_description(c.oid, 'pg_class')
+            FROM pg_catalog.pg_class c
+            LEFT JOIN pg_catalog.pg_namespace n ON n.oid = c.relnamespace
+            WHERE c.relkind IN ('f', 'm', 'p', 'r', 'v')
+                AND n.nspname NOT IN ('pg_catalog', 'pg_toast')
+                AND pg_catalog.pg_table_is_visible(c.oid)
+        ; args=None; alias=default
+(0.219) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+(0.156) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'sankalp'; args=('sankalp',); alias=default
+(0.234) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'sankalp' AND "django_content_type"."model" = 'course') LIMIT 21; args=('sankalp', 'course'); alias=default
+(0.391) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'sankalp' AND "django_content_type"."model" = 'enquiryform') LIMIT 21; args=('sankalp', 'enquiryform'); alias=default
+(0.156) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'sankalp' AND "django_content_type"."model" = 'registered_students') LIMIT 21; args=('sankalp', 'registered_students'); alias=default
+(0.157) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'sankalp' AND "django_content_type"."model" = 'testimonial') LIMIT 21; args=('sankalp', 'testimonial'); alias=default
+(0.171) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'sankalp' AND "django_content_type"."model" = 'students_result') LIMIT 21; args=('sankalp', 'students_result'); alias=default
+(0.141) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (1, 2, 3, 4, 5) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(1, 2, 3, 4, 5); alias=default
+(0.172) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'sankalp'; args=('sankalp',); alias=default
+(0.171) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'admin'; args=('admin',); alias=default
+(0.141) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'admin' AND "django_content_type"."model" = 'logentry') LIMIT 21; args=('admin', 'logentry'); alias=default
+(0.156) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (6) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(6,); alias=default
+(0.265) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'admin'; args=('admin',); alias=default
+(0.516) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'auth'; args=('auth',); alias=default
+(0.156) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'auth' AND "django_content_type"."model" = 'permission') LIMIT 21; args=('auth', 'permission'); alias=default
+(0.234) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'auth' AND "django_content_type"."model" = 'group') LIMIT 21; args=('auth', 'group'); alias=default
+(0.172) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'auth' AND "django_content_type"."model" = 'user') LIMIT 21; args=('auth', 'user'); alias=default
+(0.172) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (8, 9, 7) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(8, 9, 7); alias=default
+(0.219) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'auth'; args=('auth',); alias=default
+(0.156) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'contenttypes'; args=('contenttypes',); alias=default
+(0.172) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'contenttypes' AND "django_content_type"."model" = 'contenttype') LIMIT 21; args=('contenttypes', 'contenttype'); alias=default
+(0.172) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (10) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(10,); alias=default
+(0.156) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'contenttypes'; args=('contenttypes',); alias=default
+(0.219) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'sessions'; args=('sessions',); alias=default
+(0.156) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'sessions' AND "django_content_type"."model" = 'session') LIMIT 21; args=('sessions', 'session'); alias=default
+(0.156) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (11) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(11,); alias=default
+(0.157) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'sessions'; args=('sessions',); alias=default
+(0.140) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'tinymce'; args=('tinymce',); alias=default
+(0.172) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'tinymce'; args=('tinymce',); alias=default
